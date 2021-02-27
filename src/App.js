@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1> inaya </h1>
+      <h1> INAYA BUDGIE STORIES </h1>
     </div>
   );
 }
