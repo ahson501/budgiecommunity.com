@@ -4,16 +4,19 @@ import '../../App.css';
 
 
 
+
 function Home() {
   return ( 
     <>
      <Footer />
+     
      
     </>
   );
 }
 
 export default Home;
+
 
 
 
