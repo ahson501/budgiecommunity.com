@@ -4,10 +4,6 @@ import Videos from '../Videos';
 import '../../App.css';
 
 
-
-
-
-
 function Home() {
   return ( 
     <>
