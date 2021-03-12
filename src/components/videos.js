@@ -3,7 +3,7 @@ import './Videos.css';
 import '../App.css';
 import ReactPlayer from 'react-player'
 
-function videos() {
+function Videos() {
     return (
         <div className="video-container">
             <ReactPlayer url='https://www.youtube.com/watch?v=ysz5S6PUM-U' />
@@ -12,5 +12,5 @@ function videos() {
       
       </div>)};
 
-      export default videos
+      export default Videos
     
