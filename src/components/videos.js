@@ -10,7 +10,8 @@ function Videos() {
       <h1>ADVENTURE AWAITS</h1>
       <p>What are you waiting for?</p>
       
-      </div>)};
+      </div>);
+      }
 
-      export default Videos
+      export default Videos;
     
