@@ -8,7 +8,7 @@ function Home() {
   return ( 
     <>
      <Footer />
-     <Videos /> 
+     <Videos />
     </>
   );
 }
